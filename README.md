@@ -3,7 +3,7 @@
 A personal portfolio site built with Next.js (App Router), TypeScript and Tailwind CSS for WDD 430, Week 01.
 
 ## Live site
-Vercel URL: **PASTE-YOUR-VERCEL-URL-HERE**
+Vercel URL: **https://wdd430-portfolio-ruby-seven.vercel.app**
 
 ## Pages
 - `/` Home: portfolio projects shown as cards
